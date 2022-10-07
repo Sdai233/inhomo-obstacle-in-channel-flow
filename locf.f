@@ -1120,8 +1120,9 @@ c
       
       real s,xLB,yLB,x1,y1,x3,x1c,x2c
       
-      real width,zcenter(100)
       integer center_number
+      real width,zcenter(100)
+      
       
       real pi
       parameter (pi = 3.1415926535897932385)
