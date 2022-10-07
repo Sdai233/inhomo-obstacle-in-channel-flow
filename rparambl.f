@@ -1166,7 +1166,7 @@ c
             write(ios,*) '   x1center  ',fpds4
             write(ios,*) '   x2center ',fpds5
             write(ios,*) '   center number',fpds10
-            do i1=1,center_number
+            do i1=1,fpds10
          	write(ios,*) '   obstacle center z= ',fpds11(i1)
             enddo
             write(ios,*) '   planey  ',fp1
